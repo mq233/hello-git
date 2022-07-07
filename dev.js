@@ -4,5 +4,6 @@ console.log('111111')
 
 const per = {
     a: 'a',
-    b: 'b'
+    b: 'b',
+    d: 'd'
 }
